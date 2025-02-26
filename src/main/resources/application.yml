@@ -1,0 +1,5 @@
+spring:
+  application:
+    name:  ApiExchangeRates
+apiDolar:
+  baseUrl:  https://dolarapi.com/v1
